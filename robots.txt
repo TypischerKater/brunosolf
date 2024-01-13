@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://typischerkater.github.io/brunosolf/wp-sitemap.xml
