@@ -1,5 +1,16 @@
-# brunosolf
+# My Portfolio Site
 
-This is a simple personal website about me to show some of my project.
+Welcome to **My Portfolio Site**! 🚀
 
-[Website](https://typischerkater.github.io/brunosolf/)
+## 🌐 Live Demo
+[Click here to visit the page](https://brunosolf.de/)
+
+## 📖 About
+This is my portfolio page, where I showcase my projects, skills, and more about me. It serves as a space to highlight my work, technical expertise, and experiences in software development.
+
+## 📜 License
+This project is licensed under the **Apache-2.0 License**.
+
+---
+
+Made with ❤️ by **Typischer Kater**
