@@ -1,4 +1,4 @@
-# My Portfolio Site
+# My Old Portfolio Site Project
 
 Welcome to **My Portfolio Site**! 🚀
 
@@ -6,7 +6,7 @@ Welcome to **My Portfolio Site**! 🚀
 [Click here to visit the page](https://brunosolf.de/)
 
 ## 📖 About
-This is my portfolio page, where I showcase my projects, skills, and more about me. It serves as a space to highlight my work, technical expertise, and experiences in software development.
+This project exists only to redirect my old url https://typischerkater.github.io/brunosolf/ to my new website.
 
 ## 📜 License
 This project is licensed under the **Apache-2.0 License**.
